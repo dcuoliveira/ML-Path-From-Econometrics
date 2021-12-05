@@ -71,3 +71,13 @@
 
 ## 2. Learning Theory: Algorithms
 
+#### (a) Linear methods
+
+#### (b) Kernel smoothing methods
+
+#### (c) Tree-based methods
+
+#### (d) Neural networks
+
+## 3. Learning Theory: Algorithms
+
