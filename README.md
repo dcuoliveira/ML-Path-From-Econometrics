@@ -1,6 +1,6 @@
 # ML-Path-From-Econometrics
 
-## 1. Learning Theory
+## 1. Learning Theory: Fundamentals
 
 #### (a) Different cultures on learning from data
 
@@ -69,4 +69,5 @@
 
 > [Tipping, M. E. (2003). Bayesian Inference: An Introduction to Principles and Practice in Machine Learning. Advanced Lectures on Machine Learning.](https://link.springer.com/chapter/10.1007%2F978-3-540-28650-9_3)
 
+## 2. Learning Theory: Algorithms
 
