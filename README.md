@@ -15,7 +15,7 @@
 #### (b) Fundamentals of learning theory
 
 ##### The problem of induction
-> Harman, G. Kulkarni, S. (2007). Reliable Reasoning. Bradford. - Chapter 1
+> [Harman, G. Kulkarni, S. (2007). Reliable Reasoning. Bradford.](https://mitpress.mit.edu/books/reliable-reasoning) - Chapter 1
 
 > [Shalev-Shwartz, S. Ben-David, S. (2014). Understanding Machine Learning. Cambridge University Press.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) - Chapter 1
 
